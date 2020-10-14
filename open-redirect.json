@@ -71,10 +71,10 @@
      	"image_url=",
      	"site=",
      	"cgi-bin/redirect.cgi",
-     	"domain="
-     	"target="
-     	"target_url="
-     	"targetUrl="
+     	"domain=",
+     	"target=",
+     	"target_url=",
+     	"targetUrl=",
      	"val=",
 	"validate=",
 	"view=",
