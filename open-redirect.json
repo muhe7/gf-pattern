@@ -2,7 +2,6 @@
     "flags": "-iE",
      "patterns": [
 
-
      	"ReturnUrl=",
      	"return_path=",
      	"returnpath=",
@@ -18,22 +17,22 @@
      	"redirect_url=",
      	"referrer=",
      	"redir=",
-		"redirect_to=",
-		"reference=",
-		"returnTo=",
-		"return_url=",
-		"rt=",
-		"rurl=",
+	"redirect_to=",
+	"reference=",
+	"returnTo=",
+	"return_url=",
+	"rt=",
+	"rurl=",
      	"dir=",
      	"data=",
-		"dest=",
-		"destination=",
+	"dest=",
+	"destination=",
      	"uri=",
      	"view=",
      	"forum_reg=",
      	"next=",
      	"navigation=",
-		"next_page=",
+	"next_page=",
      	"ref_url=",
      	"l=",
      	"return_url=",
@@ -61,10 +60,10 @@
      	"file_name=",
      	"file_url=",
      	"file=",
-		"folder=",
-		"folder_url=",
-		"forward=",
-		"from_url=",
+	"folder=",
+	"folder_url=",
+	"forward=",
+	"from_url=",
      	"succurl=",
      	"host=",
      	"recipient=",
@@ -77,9 +76,9 @@
      	"target_url="
      	"targetUrl="
      	"val=",
-		"validate=",
-		"view=",
-		"window="
+	"validate=",
+	"view=",
+	"window="
 
 
  ]
