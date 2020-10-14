@@ -1,3 +1,2 @@
 # gf-pattern
-
-Let's start....Thanks @1ndianl33t
+This all were given by our community. I just gathered this in a place....Thanks @1ndianl33t
