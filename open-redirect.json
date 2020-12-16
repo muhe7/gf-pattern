@@ -49,7 +49,7 @@
      	"login=",
      	"logout=",
      	"login_url=",
-     	"to",
+     	"to=",
      	"origin=",
      	"checkout_url=",
      	"continue=",
